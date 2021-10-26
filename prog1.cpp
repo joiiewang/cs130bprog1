@@ -5,6 +5,7 @@
 #include <unordered_set>
 #include <cmath>
 #include <chrono>
+#include <algorithm>
 using namespace std;
 using Clock = std::chrono::steady_clock;
 using std::chrono::time_point;
